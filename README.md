@@ -2,7 +2,7 @@
 
 ---
 
-## 📐 Math & Engineering
+## Math 
 
 - **Calculus**
   - [Calculus (14th ed.) – Thomas](./Calculus14thEdition-Thomas.pdf)
@@ -16,7 +16,14 @@
 
 ---
 
-## 💻 Programming & Computer Science
+## Physics 
+
+- **Introductory Physics**
+  - [Matter & Interactions](./Matter&Interactions-4th.pdf)
+
+---
+
+## Programming & Computer Science
 
 - **Java**
   - [Head First Java](./Head-First-Java.pdf)
