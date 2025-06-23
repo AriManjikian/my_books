@@ -32,5 +32,9 @@
   - [Writing an Interpreter in Go – Thorsten Ball](./WritingAnInterpreterInGo-ThorstenBall.pdf)  
   - [Writing a Compiler in Go – Thorsten Ball](./WritingACompilerInGo-ThorstenBall.pdf)
 
+- **Computer Architecture**
+  - [Computer Architecture: A Quantitative Approach (5th Edition)](./Computer-Architecture-A-Quantitative-Approach-(5th edition).pdf)  
+  - [Code: The Hidden Language of Computer Hardware and Software - Charles Petzold](./Charles-Petzold-Code-The-Hidden-Language-of-Computer-Hardware-and-Software.pdf)
+
 ---
 
