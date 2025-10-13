@@ -36,5 +36,6 @@
   - [Computer Architecture: A Quantitative Approach (5th Edition)](./Computer-Architecture-A-Quantitative-Approach-5th-edition.pdf)  
   - [Code: The Hidden Language of Computer Hardware and Software - Charles Petzold](./Charles-Petzold-Code-The-Hidden-Language-of-Computer-Hardware-and-Software.pdf)
   - [Digital Design & Computer Architecture RISC-V Edition](./Digital-Design-&-Computer-Architecture-RISC-V-Edition.pdf)
+  - [ECE 2020: Fundamentals of Digital Design](./ECE2020.pdf)
 ---
 
