@@ -24,7 +24,10 @@
   - [Matter & Interactions](./Matter&Interactions-4th.pdf)
 ---
 
-## Programming & Computer Science
+## CS & ECE
+
+- **ECE**
+  - [Introduction to Electric Circuits](./Introduction_to_Electric_Circuits_9th.pdf)
 
 - **Java**
   - [Head First Java](./Head-First-Java.pdf)
