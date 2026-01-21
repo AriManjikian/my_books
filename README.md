@@ -42,7 +42,6 @@
   - [Digital Design & Computer Architecture RISC-V Edition - Harris & Harris](./Digital-Design-&-Computer-Architecture-RISC-V-Edition.pdf)
   - [ECE 2020 @ Georgia Tech: Fundamentals of Digital Design](./ECE2020.pdf)
   - [RISC-V Unprivileged Architecture](./RISCV-Unpriv-Arch.pdf)
-  - [Introduction to Electric Circuits (9th Edition)](./Introduction_to_Electric_Circuits_9th.pdf)
 
 - **RTL**
   - [RTL Digital Logic Interview Questions](./RTL-Digital-Logic-Interview-Questions.pdf)
